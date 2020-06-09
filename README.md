@@ -1,2 +1,2 @@
 # Simple-ticket-system
-What it says on the can.
+What it says on the tin.
